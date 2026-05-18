@@ -1,20 +1,105 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI Application
 
-# Run and deploy your AI Studio app
+A modern AI-powered application built with Node.js.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/edd30f95-400f-483a-ba0a-10649134c080
+## 🚀 Getting Started
 
-## Run Locally
+Follow these steps to run the project locally.
 
-**Prerequisites:**  Node.js
+### Prerequisites
 
+Make sure you have installed:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Node.js
+- npm or yarn
+
+---
+
+## 📦 Installation
+
+Install all dependencies:
+
+```bash
+npm install
+```
+
+---
+
+## ⚙️ Environment Setup
+
+Create a `.env.local` file in the root directory and add your API key:
+
+```env
+API_KEY=your_api_key_here
+```
+
+---
+
+## ▶️ Run the Development Server
+
+Start the project locally:
+
+```bash
+npm run dev
+```
+
+The application will run on:
+
+```txt
+http://localhost:3000
+```
+
+---
+
+## 🏗️ Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 🚀 Start Production Server
+
+```bash
+npm start
+```
+
+---
+
+## ✨ Features
+
+- Responsive modern UI
+- AI-powered functionality
+- Fast development workflow
+- Easy deployment setup
+- Clean and scalable structure
+
+---
+
+## 🛠️ Tech Stack
+
+- Node.js
+- JavaScript / TypeScript
+- Modern frontend framework
+- API integrations
+
+---
+
+## 📁 Project Structure
+
+```txt
+├── public/
+├── src/
+├── .env.local
+├── package.json
+└── README.md
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
