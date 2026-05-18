@@ -1,6 +1,6 @@
-# AI Application
+# ITAM License Manager
 
-A modern AI-powered application built with Node.js.
+An intelligent IT Asset Management (ITAM) License Manager designed to help organizations efficiently track, manage, and monitor software licenses and IT assets.
 
 ---
 
@@ -71,11 +71,13 @@ npm start
 
 ## ✨ Features
 
+- Software license tracking and management
+- Asset inventory monitoring
+- Expiry and renewal alerts
+- User and device management
+- Dashboard analytics and reporting
+- Secure and scalable architecture
 - Responsive modern UI
-- AI-powered functionality
-- Fast development workflow
-- Easy deployment setup
-- Clean and scalable structure
 
 ---
 
@@ -85,6 +87,7 @@ npm start
 - JavaScript / TypeScript
 - Modern frontend framework
 - API integrations
+- Database support
 
 ---
 
